@@ -1,0 +1,16 @@
+id,title,genres,overview,popularity,vote_average,poster_url
+27205,Inception,"Action | Sci-Fi","A skilled thief who uses dream-sharing to steal secrets, but must plant an idea.",150.0,8.3,https://image.tmdb.org/t/p/original/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg
+597,The Matrix,"Action | Sci-Fi","A hacker discovers the world is a simulation and joins a rebellion.",140.0,8.7,https://image.tmdb.org/t/p/original/aOIuZAjPa2dPZZUvUd6ibgj4VZ1.jpg
+155,The Dark Knight,"Action | Crime | Drama","Batman faces the Joker in a battle for Gotham’s soul.",200.0,8.5,https://image.tmdb.org/t/p/original/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg
+13,Forrest Gump,"Drama | Romance","The life journey of Forrest Gump, a man with a low IQ but good intentions.",110.0,8.8,https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
+497,The Green Mile,"Crime | Drama | Fantasy","A death row guard witnesses supernatural events after an inmate’s arrival.",80.0,8.5,https://image.tmdb.org/t/p/original/velWPhVMQeQKcxggNEU8YmIo52R.jpg
+122,LOTR: Return of the King,"Adventure | Fantasy","The final confrontation for Middle‑earth as Frodo faces Mount Doom.",170.0,8.9,https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+424,Schindler's List,"Drama | History","A German businessman saves Jews during WWII by employing them.",60.0,8.6,https://image.tmdb.org/t/p/original/c8Ass7acuOe4za6DhSattE359gr.jpg
+4971,Gladiator,"Action | Adventure | Drama","A former Roman general seeks vengeance as a gladiator in the arena.",140.0,8.5,https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg
+1222,The Wolf of Wall Street,"Comedy | Crime | Drama","Based on the true story of Jordan Belfort’s rise and fall on Wall Street.",130.0,8.2,https://image.tmdb.org/t/p/original/5mbwJ4j6mD5hBOpvFkOtql2rfbZ.jpg
+315162,Puss in Boots: The Last Wish,"Animation | Adventure","Puss in Boots discovers he has only one life left and embarks on a quest.",90.0,8.0,https://image.tmdb.org/t/p/original/d1djCr1YLSgnqU9xD3GkqqFMGt0.jpg
+299534,Avengers: Endgame,"Action | Adventure | Sci-Fi","The Avengers assemble one final time to reverse Thanos’ snap.",300.0,8.3,https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+497698,Black Panther,"Action | Adventure | Sci-Fi","T’Challa returns home to take the throne and defend Wakanda.",220.0,7.4,https://image.tmdb.org/t/p/original/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
+6977,No Country for Old Men,"Crime | Drama | Thriller","A hunter stumbles on drug money, sparking a deadly game of cat and mouse.",70.0,8.1,https://image.tmdb.org/t/p/original/1mY5IKiPmhcmkD8uEek6yTQREJf.jpg
+680,Pulp Fiction,"Crime | Drama","The lives of two hitmen intertwine in a series of violent encounters.",165.0,8.9,https://image.tmdb.org/t/p/original/dM2w364MScsjFf8pfMbaWUcWrR.jpg
+5970,Good Will Hunting,"Drama | Romance","A janitor at MIT with a gift for mathematics sees a therapist for help.",75.0,8.3,https://image.tmdb.org/t/p/original/7wmD8AOTlIY0vegpliafc2UUVg6.jpg
